@@ -1,4 +1,4 @@
-#***SISTEMAS EMPRESARIALES***
+***SISTEMAS EMPRESARIALES***
 
 ##**1)Explique que son los sistemas empresariales** 
 ####Un Sistema de Información Empresarial es un sistema que tiene un impacto muy importante en el funcionamiento de la organización o negocio y cuya falla traería graves consecuencias.
@@ -24,6 +24,7 @@
 |Hopitales|Son necesarios para el control medico de cada persona para asi poder averiguar estados de los pacientes, condiciones en la se encuentra,etc |
 |Empresa de costura|Son necesariso para el control de la calidad, del material .las entregas una infinidad de movimientos que se realizan| 
 |INE|Para poder manter la informacion de la poblaciòn actualizada en cuanto a estadsticas se trata| 
+
 ##**4)Explique cuales son las diferencias entre la escalabilidad horizontal y escalabilidad vertical.**
 
 ####**Escalabilidad vertical** Se refiere a actualizaciones o modernizaciòn de componentes existentes.
